@@ -7,5 +7,5 @@ It has several test cases which can be outputed in the shell so the user can vis
 - Passes regular expression string into parse tree
 - Structures it into simple section which are then represented into simple outputs
 - Several parsing functions are included for simplicity
-- Using basic logic operators def re_parse(r):
+- Using basic logic operators 
   
